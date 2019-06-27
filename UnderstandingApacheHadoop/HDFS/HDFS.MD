@@ -41,6 +41,12 @@ hdfs dfs -ls /
 ```
 <hr>
 
+##### Increase or Decrease the number of Replicas: </br>
+```
+
+```
+<hr>
+
 ##### We can also navigate out HDFS and its contents here: </br>
 ![image](https://user-images.githubusercontent.com/45539698/59725059-e1331500-9249-11e9-8175-277c6bf898f0.png)
 
